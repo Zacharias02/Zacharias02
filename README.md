@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm JL</h1>
-<h3 align="center">Lead Engineer at PDAX, Inc. and Core Member at Flutter PH.</h3>
+<h3 align="center">Lead Engineer at [PDAX, Inc](https://pdax.ph/). and Core Member at [Flutter PH](https://flutter.ph/).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zacharias02&label=Profile%20views&color=0e75b6&style=flat" alt="zacharias02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacharias02" alt="zacharias02" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Khafka, and Python**
+- 🌱 I’m currently learning **AWS, Khafka, and Python**.
 
 - 👨‍💻 All of my projects are available at [https://jlnecesito.webflow.io/](https://jlnecesito.webflow.io/)
 
-- 💬 Ask me about **mobile development using Flutter and Dart.**
+- 💬 Ask me about **mobile development using Flutter and Dart**.
 
 - 📫 How to reach me **necesitolester@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19eyGhzhx_c65MnWwlxtf7nGTUdnCQnvf/edit](https://drive.google.com/file/d/19eyGhzhx_c65MnWwlxtf7nGTUdnCQnvf/edit)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/19eyGhzhx_c65MnWwlxtf7nGTUdnCQnvf/edit).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
