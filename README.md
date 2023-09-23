@@ -1,23 +1,29 @@
 <h1 align="center">Hi 👋, I'm JL</h1>
-<h3 align="center">Lead Engineer at [PDAX, Inc](https://pdax.ph/). and Core Member at [Flutter PH](https://flutter.ph/).</h3>
+<h3 align="center">Software Engineer | Tech Advocate & Speaker | Flutter & Dart Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zacharias02&label=Profile%20views&color=0e75b6&style=flat" alt="zacharias02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacharias02" alt="zacharias02" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Khafka, and Python**.
+- 🔭 Lead Engineer at [PDAX, Inc.](https://pdax.ph/)
+
+- 🤝 Core Member at [Flutter PH](https://flutter.ph/)
+
+- 🌱 I’m currently learning **AWS, Khafka, and Python.**
 
 - 👨‍💻 All of my projects are available at [https://jlnecesito.webflow.io/](https://jlnecesito.webflow.io/)
 
-- 💬 Ask me about **mobile development using Flutter and Dart**.
+- 💬 Ask me about **mobile development using Flutter and Dart.**
 
 - 📫 How to reach me **necesitolester@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/19eyGhzhx_c65MnWwlxtf7nGTUdnCQnvf/edit).
+- 📄 Know about my experiences [https://drive.google.com/file/d/19eyGhzhx_c65MnWwlxtf7nGTUdnCQnvf/edit](https://drive.google.com/file/d/19eyGhzhx_c65MnWwlxtf7nGTUdnCQnvf/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.facebook.com/Kyrie.Kills.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="John Lester Necesito" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/john-lester-necesito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-lester-necesito" height="30" width="40" /></a>
+<a href="https://github.com/Zacharias02/Zacharias02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Zacharias02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zacharias02&show_icons=true&locale=en&layout=compact" alt="zacharias02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zacharias02&show_icons=true&locale=en" alt="zacharias02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharias02&" alt="zacharias02" /></p>
