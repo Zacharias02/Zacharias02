@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **necesitolester@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19eyGhzhx_c65MnWwlxtf7nGTUdnCQnvf/edit](https://drive.google.com/file/d/19eyGhzhx_c65MnWwlxtf7nGTUdnCQnvf/edit)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/19eyGhzhx_c65MnWwlxtf7nGTUdnCQnvf/edit).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
