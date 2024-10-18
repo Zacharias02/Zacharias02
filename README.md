@@ -7,7 +7,7 @@
 
 - 🔭 Lead Engineer at [PDAX, Inc.](https://pdax.ph/)
 
-- 🤝 Core Member at [Flutter PH](https://flutter.ph/)
+- 🤝 Core Lead at [Flutter PH](https://flutter.ph/)
 
 - 🌱 I’m currently learning **AWS, Khafka, and Python.**
 
